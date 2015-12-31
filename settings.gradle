@@ -1,0 +1,1 @@
+include ':app', ':dev_data', ':dev_base', ':green_dao_gen'
